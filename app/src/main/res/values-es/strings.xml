@@ -1,0 +1,48 @@
+<resources>
+    <string name="title_home">Hogar</string>
+    <string name="title_search">Buscar</string>
+    <string name="title_recipe">Receta</string>
+    <string name="theme">tema</string>
+    <string name="title_favourite">Favorita</string>
+    <string name="fab_content_desc">Agregar receta</string>
+    <string name="name">Nombre :</string>
+    <string name="description">Descripción :</string>
+    <string name="prep_time">Tiempo de preparación:</string>
+    <string name="total_time">Tiempo Total:</string>
+    <string name="cook_time">Hora de cocinar:</string>
+    <string name="additional_time">Tiempo adicional:</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="directions">Direcciones</string>
+    <string name="nutrition_facts_per_serving">Datos nutricionales (por porción)</string>
+    <string name="calories">calorías</string>
+    <string name="fat">Gordo</string>
+    <string name="carbs">Carbohidratos</string>
+    <string name="protein">Proteína</string>
+    <string name="step_count">Paso %d</string>
+    <string name="view_count">%d puntos de vista</string>
+    <string name="add_recipe">Agregar receta</string>
+    <string name="in_min">En Min, p.e. 30 minutos</string>
+    <string name="in_gm">En GM, por ejemplo. 20 gramos</string>
+    <string name="in_kcal">En kcal, p.e. 240 kilocalorías</string>
+    <string name="add">Agregar</string>
+    <string name="add_image">Añadir imagen</string>
+    <string name="please_wait">Espere por favor…</string>
+    <string name="loading_recipe">Nosotras estamos cargando receta.</string>
+    <string name="searching_recipe">Nosotras estamos buscando receta.</string>
+    <string name="adding_recipe">Nosotras estamos agregando receta.</string>
+    <string name="recent_history">Historia reciente</string>
+
+    <!--    validate    -->
+    <string name="select_image">Por favor seleccione imagen</string>
+    <string name="enter_valid_desc">Por favor ingresa una descripción válida</string>
+    <string name="enter_valid_prep_time">Por favor ingresa un tiempo de preparación válido</string>
+    <string name="enter_valid_cook_time">Por favor ingrese un tiempo de cocción válido</string>
+    <string name="enter_valid_additional_time">Por favor ingresa un tiempo adicional válido</string>
+    <string name="enter_valid_total_time">Por favor ingresa un tiempo total válido</string>
+    <string name="enter_valid_ingredient">Por favor agregue ingredientes</string>
+    <string name="enter_valid_steps">Por favor agregue pasos</string>
+    <string name="enter_valid_calorie">Por favor introduce calorías</string>
+    <string name="enter_valid_fat">Por favor ingrese gorda</string>
+    <string name="enter_valid_carbs">Por favor ingresa carbohidratos</string>
+    <string name="enter_valid_protein">Por favor ingrese proteína</string>
+</resources>

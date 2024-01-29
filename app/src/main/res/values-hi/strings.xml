@@ -1,0 +1,48 @@
+<resources>
+    <string name="title_home">घर</string>
+    <string name="title_search">खोज</string>
+    <string name="title_recipe">व्यंजन विधि</string>
+    <string name="theme">थीम</string>
+    <string name="title_favourite">पसंदीदा</string>
+    <string name="fab_content_desc">रेसिपी जोड़ें</string>
+    <string name="name">नाम :</string>
+    <string name="description">विवरण :</string>
+    <string name="prep_time">तैयारी समय:</string>
+    <string name="total_time">कुल समय:</string>
+    <string name="cook_time">पकाने का समय:</string>
+    <string name="additional_time">अतिरिक्त समय:</string>
+    <string name="ingredients">सामग्री</string>
+    <string name="directions">दिशा-निर्देश</string>
+    <string name="nutrition_facts_per_serving">पोषण तथ्य (प्रति सेवारत)</string>
+    <string name="calories">कैलोरी</string>
+    <string name="fat">वसा</string>
+    <string name="carbs">कार्बोहाइड्रेट</string>
+    <string name="protein">प्रोटीन</string>
+    <string name="step_count">कदम %d</string>
+    <string name="view_count">%d दृश्य</string>
+    <string name="add_recipe">रेसिपी जोड़ें</string>
+    <string name="in_min">मिन में उदा. 30 मिनट</string>
+    <string name="in_gm">जीएम में उदा. 20 ग्राम</string>
+    <string name="in_kcal">किलो कैलोरी में उदा. 240 किलो कैलोरी</string>
+    <string name="add">जोड़ना</string>
+    <string name="add_image">छवि जोड़ें</string>
+    <string name="please_wait">कृपया प्रतीक्षा करें…</string>
+    <string name="loading_recipe">हम रेसिपी लोड कर रहे हैं.</string>
+    <string name="searching_recipe">हम रेसिपी खोज रहे हैं.</string>
+    <string name="adding_recipe">हम रेसिपी जोड़ रहे हैं.</string>
+    <string name="recent_history">ताज़ा इतिहास</string>
+
+    <!--    validate    -->
+    <string name="select_image">कृपया छवि चुनें</string>
+    <string name="enter_valid_desc">कृपया एक वैध विवरण दर्ज करें</string>
+    <string name="enter_valid_prep_time">कृपया तैयारी का वैध समय दर्ज करें</string>
+    <string name="enter_valid_cook_time">कृपया खाना पकाने का वैध समय दर्ज करें</string>
+    <string name="enter_valid_additional_time">कृपया एक वैध अतिरिक्त समय दर्ज करें</string>
+    <string name="enter_valid_total_time">कृपया वैध कुल समय दर्ज करें</string>
+    <string name="enter_valid_ingredient">कृपया सामग्री जोड़ें</string>
+    <string name="enter_valid_steps">कृपया चरण जोड़ें</string>
+    <string name="enter_valid_calorie">कृपया कैलोरी दर्ज करें</string>
+    <string name="enter_valid_fat">कृपया वसा दर्ज करें</string>
+    <string name="enter_valid_carbs">कृपया कार्ब्स दर्ज करें</string>
+    <string name="enter_valid_protein">कृपया प्रोटीन दर्ज करें</string>
+</resources>

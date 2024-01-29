@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name" translatable="false">CookerPro</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="theme">Theme</string>
+    <string name="title_recipe">Recipe</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="fab_content_desc">Add Recipe</string>
+    <string name="name">Name :</string>
+    <string name="description">Description :</string>
+    <string name="prep_time">Prep Time:</string>
+    <string name="total_time">Total Time:</string>
+    <string name="cook_time">Cook Time:</string>
+    <string name="additional_time">Additional Time:</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="directions">Directions</string>
+    <string name="nutrition_facts_per_serving">Nutrition Facts (per serving)</string>
+    <string name="calories">Calories</string>
+    <string name="fat">Fat</string>
+    <string name="carbs">Carbs</string>
+    <string name="protein">Protein</string>
+    <string name="step_count">Step %d</string>
+    <string name="view_count">%d Views</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="in_min">In Min e.g. 30 min</string>
+    <string name="in_gm">In GM e.g. 20 gm</string>
+    <string name="in_kcal">In kcal e.g. 240 kcal</string>
+    <string name="add">Add</string>
+    <string name="add_image">Add Image</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="loading_recipe">We are loading recipe.</string>
+    <string name="searching_recipe">We are searching recipe.</string>
+    <string name="adding_recipe">We are adding recipe.</string>
+    <string name="recent_history">Recent history</string>
+
+    <!--    validate    -->
+    <string name="select_image">Please select image</string>
+    <string name="enter_valid_desc">Please enter a valid description</string>
+    <string name="enter_valid_prep_time">Please enter a valid prep time</string>
+    <string name="enter_valid_cook_time">Please enter a valid cook time</string>
+    <string name="enter_valid_additional_time">Please enter a valid additional time</string>
+    <string name="enter_valid_total_time">Please enter a valid total time</string>
+    <string name="enter_valid_ingredient">Please add ingredients</string>
+    <string name="enter_valid_steps">Please add steps</string>
+    <string name="enter_valid_calorie">Please enter calories</string>
+    <string name="enter_valid_fat">Please enter fat</string>
+    <string name="enter_valid_carbs">Please enter carbs</string>
+    <string name="enter_valid_protein">Please enter protein</string>
+    <string name="logoutBtn" translatable="false">Logout</string>
+</resources>

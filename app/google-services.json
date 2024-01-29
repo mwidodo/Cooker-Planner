@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984045299831",
+    "project_id": "cookerproauthentication",
+    "storage_bucket": "cookerproauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984045299831:android:cb6c3299b83e4577e7be72",
+        "android_client_info": {
+          "package_name": "project.cookerpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3kKbwX-kcbHslh0RwN0goYAcGF_fTWWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
